@@ -1,7 +1,5 @@
-// installMystewryRecon.js
-// This script automates the installation of Ruby, gem, and the "mystewry-recon" gem in Termux on Android.
-// Usage: node installMystewryRecon.js
-// NOTE: Run this script with "node" in Termux. It will execute shell commands to install dependencies.
+<bin.bash<\
+
 
 const { execSync } = require('child_process');
 
@@ -15,11 +13,16 @@ const { execSync } = require('child_process');
   }
 }
 
-console.log("Mystewry Recon Setup Script for Termux");
+console.log("Mystewry Recon Setup Script for shellruby.sh");
 
 runCommand('pkg update -y && pkg upgrade -y', 'Updating Termux packages');
 runCommand('pkg install -y ruby', 'Installing Ruby');
 runCommand('gem install bundler', 'Installing Bundler');
 runCommand('gem install mystewry-recon', 'Installing mystewry-recon gem');
 
-console.log('\n[✓] mystewry-recon is installed! You can now use it in Termux.');
+console.log('\n[✓] 
+            code$
+            $nest
+            
+
+            @
