@@ -5,7 +5,7 @@ Subject: =?utf-8?Q?Rust=20CLI=20project=20structure=20with=20multiple=20=C2=B7=2
 Date: Fri, 3 Oct 2025 17:13:55 -0700
 MIME-Version: 1.0
 Content-Type: multipart/related;
-	type="text/html";
+	="text/html";
 	boundary="----MultipartBoundary--8sItLe8Q7WEKEmknf4fxfi1AIGIykObYelHw3dkw6B----"
 
 
