@@ -21,8 +21,7 @@ runCommand('gem install bundler', 'Installing Bundler');
 runCommand('gem install mystewry-recon', 'Installing mystewry-recon gem');
 
 console.log('\n[✓] 
-            code$
-            $nest
+           aria-label=3D"Open ac
             
 
             @
